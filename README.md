@@ -17,3 +17,6 @@ This Weather App allows users to check the current weather conditions of any loc
 - CSS3 (Flexbox/Grid for layout)
 - JavaScript (ES6+)
 - OpenWeatherMap API
+
+## Screenshot
+<img src="WeatherApp.PNG">
