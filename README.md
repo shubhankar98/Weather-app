@@ -19,4 +19,4 @@ This Weather App allows users to check the current weather conditions of any loc
 - OpenWeatherMap API
 
 ## Screenshot
-<img src="WeatherApp.PNG">
+<img src="WeatherApp.png">
